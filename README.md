@@ -1,17 +1,17 @@
 # Mozgalica
 
-Android Quiz App in Material Design made with Java.
+Android aplikacija za izradu informatičkih kvizova za osnovne i srednje škole
 
 ## Features
 
-- Different Categories
-- 3 Different Types of Questions: Multiple Choice, Self-Check, Text Entry
-- Material Design
-- Import of Challenges/Categories via XML
-- Multiple Users
-- Statistics
-- Settings
-- Supported Langauages: Croatian
+- grupacija kvizova po višim razredima osnovne škole i nižim razredima srednje škole
+- 3 različita tipa pitanja: 1 ili više točnih odgovora, samo-procjena, slobodan unos
+- Material Design ikone
+- Unos novih izazova po razredima u XML
+- mogućnost registracije više korisnika
+- statistike
+- postavke
+- podržani jezici: hrvatski
 
 ## License
 
@@ -22,4 +22,4 @@ Mozgalica Android Quiz App
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
-
+    
