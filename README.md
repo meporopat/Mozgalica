@@ -23,3 +23,9 @@ Mozgalica Android Quiz App
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
     
+<p align="center">
+  <img src="Screenshot_2017-06-21-17-09-35.png" width="350"/>
+  <img src="Screenshot_2017-06-21-17-09-35.png" width="350"/>
+  <img src="Screenshot_2017-06-21-17-09-35.png" width="350"/>
+  <img src="Screenshot_2017-06-21-17-09-35.png" width="350"/>
+</p>
