@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Mozgalica</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="dialog_pick_avatar">Izaberi svoj avatar</string>
+    <string name="cancel">Otkaži</string>
+    <string name="select">Odaberi</string>
+    <string name="create_profile">Prati napredak u svom profilu.</string>
+    <string name="welcome">Dobrodošli u Mozgalicu.</string>
+    <string name="username">Nadimak</string>
+    <string name="empty_username">Nadimak mora biti upisan.</string>
+    <string name="too_long_username">Nadimak ima previše znakova.</string>
+    <string name="taken_username">Zauzet nadimak.</string>
+
+    <string name="import_challenge_text">Da li ste sigurni da želite ovo unijeti u biblioteku?</string>
+    <string name="select_user">Odaberi korisnika</string>
+    <string name="add_user">Dodaj korisnika</string>
+
+    <string name="all_categories">Svi razredi</string>
+    <string name="all_categories_desc">Svi izazovi svih razreda.</string>
+    <string name="title_activity_challenge">Izazov</string>
+
+    <plurals name="challenges_due">
+        <item quantity="one">Pogledaj termin do izazova.</item>
+        <item quantity="other">%d izazova.</item>
+    </plurals>
+    <string name="no_challenges_due">Nema zakazanih izazova. Za izmjenu termina izazova provjeri Postavke.</string>
+
+    <string name="next_Challenge">Slijedeći izazov</string>
+    <string name="check_Challenge">Provjeri odgovor</string>
+    <string name="end_Challenge">Kraj</string>
+    <string name="self_test_right">Da</string>
+    <string name="self_test_wrong">Ne</string>
+    <string name="self_test">Razmisli o svom odgovoru na ovaj izazov i imaj to na umu. Odaberite gumb da bi provjerili svoj odgovor.</string>
+    <string name="answer">Odgovor</string>
+    <string name="empty_answer">Odgovor ne može biti prazan.</string>
+    <string name="correct_answer">Točni odgovori:</string>,
+    <string name="query_correct_answer">Da li je Vaš odgovor točan?</string>
+    <string name="stage_num">Razina %d</string>
+    <string name="multiple_choice">1 ili više odgovora</string>
+    <string name="self_check">Samo-procjena</string>
+    <string name="text">Slobodan unos teksta</string>
+    <string name="wrong_answer">Pogrešan odgovor</string>
+
+    <string name="well_done">Vrlo dobro!</string>
+    <string name="enjoy_day">Nema novih izazova. Vrijeme je za pauzu.</string>
+
+    <string name="switch_user">Promjena korisnika</string>
+    <string name="switch_user_short">Promjena</string>
+    <string name="settings">Postavke</string>
+    <string name="about">Informacije</string>
+    <string name="logged_in_as">%1$s prijavljen/a.</string>
+
+
+    <string name="nav_learn">Učenje</string>
+    <string name="due_chart_center_text">Rok</string>
+    <string name="stage_chart_center_text">Razina</string>
+    <string name="chart_no_data_text">Nema dostupnih statističkih podataka!</string>
+    <string name="challenge_due_text">Da</string>
+    <string name="challeng_not_due_text">Ne</string>
+    <string name="chart_stage_others_text">Drugo</string>
+    <string name="import_activity_button_no">Ne</string>
+    <string name="import_activity_button_yes">Da</string>
+
+    <string name="user_context_menu_button_edit">Izmjena</string>
+    <string name="user_context_menu_button_delete">Brisanje</string>
+
+    <string name="statistics">Statistika</string>
+    <string name="statistics_label">Statistika</string>
+    <string name="statistics_most_played">Najčešće igrani izazovi</string>
+    <string name="statistics_most_failed">Najčešće pogrešni</string>
+    <string name="statistics_most_succeeded">Najčešće točni</string>
+    <string name="statistics_no_challenge_selected">Izaberi izazov u grafici!</string>
+    <string name="statistics_most_played_information_text">Izaberi dio grafike za pregled izazova.</string>
+
+    <string name="stages_desc">Ovdje možete izmjeniti vremenski interval, tj. rok razina potreban do ponovnog igranja izazova.</string>
+    <string name="months">Broj Mjeseci</string>
+    <string name="weeks">Broj Tjedana</string>
+    <string name="days">Broj Dana</string>
+    <string name="hours">Broj Sati</string>
+    <string name="minutes">Broj Minuta</string>
+    <string name="setting_stage">Razina %d</string>
+    <string name="settings_label">Postavke</string>
+    <string name="formatter_minutes">Minuta</string>
+    <string name="formatter_minute">Minuta</string>
+    <string name="formatter_hour">Sat</string>
+    <string name="formatter_hours">Sati</string>
+    <string name="formatter_day">Dan</string>
+    <string name="formatter_days">Dani</string>
+    <string name="formatter_week">Tjedan</string>
+    <string name="formatter_weeks">Tjedni</string>
+    <string name="formatter_month">Mjesec</string>
+    <string name="formatter_months">Mjeseca</string>
+    <string name="save">Spremi</string>
+    <string name="stages">Vremenski intervali, rokovi razina</string>
+    <string name="reset_settings">Resetiraj postavke.</string>
+    <string name="settings_reset">Postavke resetirane.</string>
+    <string name="undo">Vrati</string>
+    <string name="abort">Opoziv</string>
+
+    <string name="error_less_than_previous">Vremenski interval mora biti veći od prethodne razine.</string>
+    <string name="error_more_than_next">Vremenski interval mora biti manji od slijedeće razine.</string>
+    <string name="error_zero_value">Vremenski interval ne može biti jednak 0.</string>
+
+    <string name="about_teamMembers">Tatjana Berc, Melita Poropat</string>
+    <string name="title_about">Image and software licenses:</string>
+    <string name="about_team_headline">Unipu:</string>
+</resources>

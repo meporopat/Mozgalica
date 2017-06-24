@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <category description="Informatički kviz za 5.razred osnovne škole" image="@drawable/razred5" title="5.razred">
+        <challenge question="U kojem stanju može biti bit?"
+            type="1">
+            <answer correct="true" text="0" />
+            <answer correct="false" text="dobrom" />
+            <answer correct="false" text="lošem" />
+            <answer correct="true" text="1" />
+        </challenge>
+        <challenge question="Koliko kombinacija 0 i 1 daje 4 bita?" type="1">
+            <answer correct="true" text="16" />
+            <answer correct="false" text="8" />
+            <answer correct="false" text="24" />
+            <answer correct="false" text="32" />
+        </challenge>
+        <challenge question="Koji je binarni zapis simbola E?" type="2">
+            <answer correct="true" text="1110" />
+        </challenge>
+        <challenge question="Bajt ima ..." type="1">
+            <answer correct="false" text="4 bita" />
+            <answer correct="true" text="8 bita" />
+            <answer correct="false" text="2 bita" />
+            <answer correct="false" text="16 bita" />
+        </challenge>
+        <challenge question="Datoteka u kojoj su informacije predstavljene kao rečenice sastavljene od znakova je ..." type="2">
+            <answer correct="true" text="Znakovna datoteka" />
+            <answer correct="true" text="znakovna" />
+            <answer correct="true" text="znakovna datoteka" />
+        </challenge>
+        <challenge question="Kratica RAM označava ..." type="1">
+            <answer correct="false" text="matičnu ploču" />
+            <answer correct="true" text="radnu memoriju" />
+            <answer correct="false" text="adresiranje" />
+            <answer correct="false" text="kapacitet" />
+        </challenge>
+        <challenge question="Vrste datoteka su: podatkovne i ..." type="1">
+            <answer correct="true" text="programske" />
+            <answer correct="false" text="operacijske" />
+            <answer correct="false" text="memorijske" />
+            <answer correct="false" text="skrivene" />
+        </challenge>
+        <challenge question="LOGO naredba za korak naprijed?" type="2">
+            <answer correct="true" text="FD broj" />
+            <answer correct="true" text="FD neki broj" />
+            <answer correct="true" text="FD" />
+        </challenge>
+    </category>
+
+    <category description="Informatički kviz za 6.razred osnovne škole" image="@drawable/razred6" title="6.razred">
+        <challenge question="Slika je podijeljena na sitne dijelove koji se zovu?" type="1">
+            <answer correct="false" text="rasteri" />
+            <answer correct="true" text="pikseli" />
+            <answer correct="false" text="piknja" />
+            <answer correct="false" text="piksi" />
+        </challenge>
+        <challenge question="Algoritam u kojem se postupci redaju nizom koji se ne ponavlja zove se" type="3">
+            <answer correct="true" text="algoritam slijeda" />
+            <answer correct="true" text="Algoritam slijeda" />
+        </challenge>
+        <challenge question="Koliko osnovnih boja rabi monitor za prikaz slike u boji?" type="1">
+            <answer correct="true" text="3" />
+            <answer correct="false" text="6" />
+            <answer correct="false" text="8" />
+            <answer correct="false" text="16" />
+        </challenge>
+        <challenge question="Zapis u kojem se nalaze podaci spremljeni na disku računala nazivamo" type="2">
+            <answer correct="true" text="datoteka" />
+            <answer correct="true" text="Datoteka" />
+        </challenge>
+        <challenge question="Kojom oznakom odvajamo ime datoteke od nastavka imena?" type="3">
+            <answer correct="true" text="Točkom" />
+            <answer correct="true" text="točkom" />
+        </challenge>
+
+        <challenge question="Kojim programom upravljamo mapama i datotekama na Windows PC-u?"
+            type="2">
+            <answer correct="true" text="Windows Explorer" />
+        </challenge>
+        <challenge question="Za prikaz piksela u crno bijeloj boji dovoljan je" type="1">
+            <answer correct="true" text="jedan bit" />
+            <answer correct="false" text="dva bita" />
+            <answer correct="false" text="dva bajta" />
+            <answer correct="false" text="jedan bajt" />
+        </challenge>
+        <challenge question="Koliko znakova može sadržavati ime datoteke?" type="1">
+            <answer correct="true" text="do 255" />
+            <answer correct="false" text="do 50" />
+            <answer correct="false" text="nema ograničenja" />
+            <answer correct="false" text="do 100" />
+        </challenge>
+    </category>
+
+
+    <category description="Informatički kviz za 7.razred osnovne škole" image="@drawable/razred7" title="7.razred">
+        <challenge question="TCP kratica stoji za" type="3">
+            <answer correct="true" text="Transmission Control Protocol" />
+        </challenge>
+        <challenge question="Za što rabimo Excell?" type="1">
+            <answer correct="true" text="Računanje" />
+            <answer correct="false" text="Slanje email-a" />
+            <answer correct="true" text="Pisanje teksta" />
+            <answer correct="true" text="Crtanje" />
+        </challenge>
+        <challenge question="Aktivna ćelija prepoznaje se po tome što je?" type="3">
+            <answer correct="true" text="uokvirena debljom crtom" />
+        </challenge>
+        <challenge question="Koju tipku trebamo pritisnuti da se postavimo u ćeliju desno?" type="2">
+            <answer correct="true" text="Tab" />
+            <answer correct="true" text="tab" />
+        </challenge>
+        <challenge question="FTP poslužitelju pristupamo putem" type="3">
+            <answer correct="true" text="FTP klijenta" />
+        </challenge>
+        <challenge question="Autorizirani pristup za FTP je?" type="1">
+            <answer correct="true" text="korisničko ime i lozinka" />
+            <answer correct="false" text="IP" />
+            <answer correct="false" text="datum" />
+            <answer correct="false" text="lozinka" />
+        </challenge>
+        <challenge question="Što omogućuju Telnet ili TeamViewer?" type="2">
+            <answer correct="true" text="pristup udaljenom računalu" />
+        </challenge>
+        <challenge question="Koje od navedenog je internetska usluga?" type="1">
+            <answer correct="true" text="Internet Explorer" />
+            <answer correct="false" text="E-mail" />
+            <answer correct="false" text="MS Word" />
+            <answer correct="false" text="Status-code" />
+        </challenge>
+    </category>
+
+
+    <category description="Informatički kviz za 8.razred osnovne škole" image="@drawable/razred8" title="8.razred">
+        <challenge question="Brojevni sustav definira se kao pravilo ... znamenki?" type="2">
+            <answer correct="true" text="pisanja" />
+        </challenge>
+        <challenge question="Baza binarnih sustava?" type="3">
+            <answer correct="true" text="2" />
+        </challenge>
+        <challenge question="ASCII predočen 7 znamenki može imati koliko kombinacija?" type="1">
+            <answer correct="true" text="128" />
+            <answer correct="false" text="64" />
+            <answer correct="false" text="256" />
+            <answer correct="false" text="512" />
+        </challenge>
+        <challenge question="Težinska vrijednost A znaka je?" type="3">
+            <answer correct="true" text="16r" />
+        </challenge>
+        <challenge question="Rezultat zbrajanja dva bita 1+0 je?" type="2">
+            <answer correct="true" text="1" />
+        </challenge>
+        <challenge question="Tvrdnju čiju istinitost možemo dokazati naziva se?" type="1">
+            <answer correct="true" text="logična izjava" />
+            <answer correct="false" text="izjava" />
+            <answer correct="false" text="iskaz" />
+            <answer correct="false" text="objava" />
+        </challenge>
+        <challenge question="Istinitost logičke izjave prikazujemo binarnim stanjem?" type="2">
+            <answer correct="true" text="1" />
+            <answer correct="true" text="jedan" />
+        </challenge>
+        <challenge question="Kako nazivamo funkciju kod koje jedna izjava negira drugu?" type="1">
+            <answer correct="false" text="konjunkcija" />
+            <answer correct="false" text="istina" />
+            <answer correct="true" text="negacija" />
+            <answer correct="false" text="identitet" />
+        </challenge>
+    </category>
+
+
+    <category description="Informatički kviz za 1.razred srednje škole" image="@drawable/srednja" title="1.razred srednje">
+        <challenge question="Programi prevodioci (interpreteri i kompilatori) prevode:" type="2">
+            <answer correct="true" text=" viši programski jezik u strojni" />
+        </challenge>
+        <challenge question="U memorije ne pripada?" type="1">
+            <answer correct="false"
+                text="magnetna vrpca" />
+            <answer correct="true" text="pisač" />
+            <answer correct="false" text="čvrsti disk" />
+            <answer correct="false" text="optički disk" />
+        </challenge>
+        <challenge question="Koji uređaj možemo koristiti za spajanje računala na Internet?"
+            type="3">
+            <answer correct="true" text="modem" />
+            <answer correct="true" text="ADSL" />
+        </challenge>
+        <challenge question="Od navedenih uređaja samo jedan spada u izlazne uređaje:" type="1">
+            <answer correct="false" text="skener" />
+            <answer correct="true" text="monitor" />
+            <answer correct="false" text="tipkovnica" />
+            <answer correct="false" text="miš" />
+        </challenge>
+        <challenge question="Duljina riječi, frekvencija (brzina) i arhitektura su činitelji snage:" type="1">
+            <answer correct="false" text="ROMa" />
+            <answer correct="false" text="RAMa" />
+            <answer correct="true" text="procesora" />
+            <answer correct="false" text="čvrstog diska" />
+        </challenge>
+        <challenge question="Matrični ili laserski mogu biti:" type="2">
+            <answer correct="true" text="pisači" />
+        </challenge>
+        <challenge question="HTML oznaka za tijelo dokumenta?" type="1">
+            <answer correct="false" text="head" />
+            <answer correct="false" text="html" />
+            <answer correct="false" text="footer" />
+            <answer correct="true" text="body" />
+        </challenge>
+        <challenge question="CMS je kratica za?"
+            type="2">
+            <answer correct="true" text="Content Management System" />
+        </challenge>
+    </category>
+</categories>
