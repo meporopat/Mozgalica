@@ -25,7 +25,8 @@ Mozgalica Android Quiz App
     
 <p align="center">
   <img src="Screenshot_2017-06-21-17-09-35.png" width="150"/>
-  <img src="Screenshot_2017-06-21-17-09-13.png" width="150"/>
-  <img src="Screenshot_2017-06-21-17-09-48.png" width="150"/>
-  <img src="Screenshot_2017-06-21-17-09-15.png" width="150"/>
+  <img src="Screenshot_2017-06-21-17-10-13.png" width="150"/>
+  <img src="Screenshot_2017-06-21-17-25-48.png" width="150"/>
+  <img src="Screenshot_2017-06-23-10-03-15.png" width="150"/>
+  <img src="Screenshot_2017-06-23-10-05-17.png" width="150"/>
 </p>
